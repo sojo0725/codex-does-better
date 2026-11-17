@@ -139,3 +139,7 @@ skills/
     hooks/
       hedge-stop.py    Stop hook 腳本
 ```
+
+## 授權
+
+[MIT](LICENSE)
