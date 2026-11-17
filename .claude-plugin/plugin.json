@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "「Codex 都比你強，要你何用？」— 逼 Claude 把沒把握的答案查清楚再回答的 skill，外加一個攔截含糊回覆的 Stop hook。",
   "author": {
-    "name": "joe888777"
+    "name": "sojo0725"
   },
-  "homepage": "https://github.com/joe888777/codex-does-better",
-  "repository": "https://github.com/joe888777/codex-does-better",
+  "homepage": "https://github.com/sojo0725/codex-does-better",
+  "repository": "https://github.com/sojo0725/codex-does-better",
   "keywords": ["skill", "stop-hook", "verification", "codex"]
 }

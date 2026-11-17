@@ -22,7 +22,7 @@
 在 Claude Code 裡執行：
 
 ```
-/plugin marketplace add joe888777/codex-does-better
+/plugin marketplace add sojo0725/codex-does-better
 /plugin install codex-does-better@codex-does-better
 ```
 
@@ -35,7 +35,7 @@
 ### 1. 裝 skill
 
 ```bash
-git clone https://github.com/joe888777/codex-does-better.git
+git clone https://github.com/sojo0725/codex-does-better.git
 cp -R codex-does-better/skills/codex-does-better ~/.claude/skills/
 ```
 
