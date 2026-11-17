@@ -1,0 +1,16 @@
+{
+  "description": "回覆出現「應該是」「我猜」「probably」這類含糊說法時，擋下一次並要求用 codex-does-better skill 查證",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/skills/codex-does-better/hooks/hedge-stop.py\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

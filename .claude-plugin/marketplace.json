@@ -1,0 +1,16 @@
+{
+  "name": "codex-does-better",
+  "owner": {
+    "name": "joe888777"
+  },
+  "metadata": {
+    "description": "逼 Claude 查證而不是猜的 skill 與 Stop hook"
+  },
+  "plugins": [
+    {
+      "name": "codex-does-better",
+      "source": "./",
+      "description": "「Codex 都比你強，要你何用？」— 逼 Claude 把沒把握的答案查清楚再回答的 skill，外加一個攔截含糊回覆的 Stop hook。"
+    }
+  ]
+}
